@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+/*==reset css==*/
+*{margin: 0;
+padding:0;}body{
+	font-family:"sans-serif"; color:#2D4686;}
+#menu ul {background:#2C4687 opacity:50; 
+list-style-type: none;
+text-align: center;}
+#menu li {
+	color: azure;
+float:left;
+Width: 150px;
+height:40px;
+line-height:40px;}
+#menu ul{
+	backbackground: #f1f1f1;
+	list-style-type: none;
+	overflow:hidden;
+	width:100%;}
+#menu ul li a{
+	color: #f1f1f1;
+	text-decoration: none;
+	display:block;}
+#menu ul li a:hover {background:#f1f1f1; color:#0c0a0a;}
